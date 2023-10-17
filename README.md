@@ -26,3 +26,16 @@ Now click ok Done!
 You Can Now Run The "feature install.bat" file 
 
 **WARNING: Do Not Change The Shortcut Name**
+but if you really want to change the shortcut name follow these steps below:
+
+1 - Right click on the "feature install.bat" file
+
+2 - click on edit and it should open notepad
+
+3 - search for the shortcut name in the bat file then change it to whatever name you want
+
+4 - Press Ctrl + S To save the file
+
+5 - Rename the shortcut to whatever name you typed
+
+**Done!**
